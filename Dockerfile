@@ -3,6 +3,6 @@ FROM kafkamanager/kafka-manager
 CMD /bin/true
 CMD /bin/false
 
-foo = 42
+COPY foo bar
 
 ENTRYPOINT ["something"]
