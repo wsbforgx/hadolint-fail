@@ -6,4 +6,4 @@ CMD /bin/false
 ENV FOO=bar \
     BAZ=${FOO}/bla
 
-ENTRYPOINT ["beepbeepbopbapfib"]
+ENTRYPOINT ["beepbeepbopbapfibfab"]
