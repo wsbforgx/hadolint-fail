@@ -5,4 +5,4 @@ CMD /bin/false
 
 COPY foo bar
 
-ENTRYPOINT ["something2"]
+ENTRYPOINT ["something3"]
